@@ -1,0 +1,18 @@
+{
+  "name": "bfhl-node-api",
+  "version": "1.0.0",
+  "description": "Chitkara University BFHL Qualifier API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
